@@ -1,1 +1,11 @@
+<defect>
+  <ID>25</ID>
+  <Summary>The Start button does not work</Summary>
+  <Environment>https:bagbag.com</Environment>
+  <Steps_to_reproduce>1.Go to the main menu 2.Press the Start button</Steps_to_reproduce>
+  <Expected_result>the start button works, go to the next page</Expected_result>
+  <Actual_result>the Start button does not work</Actual_result>
+  <Defect_Priority>high</Defect_Priority>
+  <environment>mac os 13.2.3, Safari</environment>
+</defect>
 
